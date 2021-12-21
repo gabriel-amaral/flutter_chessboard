@@ -11,7 +11,8 @@ dependencies:
   flutter:
     sdk: flutter
   chess_vectors_flutter: ^1.0.16
-  chess: ^0.7.0
+  chess:
+    git: git@github.com:gabriel-amaral/chess.dart.git
   fpdart: ^0.0.12
   provider: ^6.0.1
 
